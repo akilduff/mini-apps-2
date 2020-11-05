@@ -1,5 +1,6 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
+import ReactPaginate from 'react-paginate';
 
 class App extends React.Component {
   constructor(props) {
